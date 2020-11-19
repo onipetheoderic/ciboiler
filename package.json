@@ -1,0 +1,26 @@
+{
+  "name": "ciboiler",
+  "version": "1.0.0",
+  "description": "my boilerplate ci/cd app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onipetheoderic/ciboiler.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/onipetheoderic/ciboiler/issues"
+  },
+  "homepage": "https://github.com/onipetheoderic/ciboiler#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "mocha": "^8.2.1",
+    "supertest": "^6.0.1"
+  }
+}
